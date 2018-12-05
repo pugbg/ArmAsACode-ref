@@ -1,0 +1,7 @@
+{
+    "example":{
+        "Description":"Example",
+        "IsEncrypted":false,
+        "ValueFileName":"variable_example.json"
+    }
+}

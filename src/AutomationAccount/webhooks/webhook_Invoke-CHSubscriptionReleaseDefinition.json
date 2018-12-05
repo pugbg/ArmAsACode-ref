@@ -1,0 +1,8 @@
+{
+    "name": "exampleWebhook",
+    "isEnabled": true,
+    "runbookName": "exampleRunbook1",
+    "UriSecredName": "webhookUri-exampleRunbook1",
+    "UriSecredKeyVaultName":"exampleKeyVault",
+    "ValidityInMonths":6
+}

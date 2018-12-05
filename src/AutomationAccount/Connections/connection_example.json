@@ -1,0 +1,11 @@
+{
+    "name": "ExmapleConnectionName",
+    "description": "ExmapleConnectionName",
+    "isGlobal": false,
+    "connectionType": {
+        "name": "ExmapleConnectionType"
+    },
+    "fieldDefinitionValues": {
+        "field1": "value1"
+    }
+}
